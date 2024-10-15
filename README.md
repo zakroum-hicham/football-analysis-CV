@@ -1,0 +1,3 @@
+# --> Football Analysis Project
+##  Introduction
+The goal of this project is to detect and track players, referees, and footballs in a video using YOLO, a leading AI object detection model. I also trained the model to improve its performance. Additionally, we assigned players to teams based on the colors of their t-shirts using Kmeans for pixel segmentation and clustering. We also assigned the ball to a player during gameplay. With this information, we measured a team's ball acquisition percentage throughout the match. Furthermore, we implemented perspective transformation to represent the scene's depth and perspective, allowing us to measure a player's movement in meters rather than pixels.
