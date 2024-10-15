@@ -1,0 +1,9 @@
+1) create a model to detect the ( players, goalkeppers, referees, ball ) 
+
+problems:
+	* we need to annotate a huge dataset ( i just use a small one with 630 annotated images )
+	* resources to train the model
+	* problem detecting the ball because it's to small and it move with high speed
+	 ...
+
+2) create a model to cluster the players into two teams
